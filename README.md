@@ -1,4 +1,4 @@
-# kadam-nikhil
+# hari sai
 this is my first git repository
 <br>
-author-nikhil
+author-hari sai
